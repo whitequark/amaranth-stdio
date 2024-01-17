@@ -1,3 +1,8 @@
+.. This page is loaded if you click on the Amaranth logo.
+
+Amaranth project documentation
+##############################
+
 .. toctree::
    :maxdepth: 1
 
